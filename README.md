@@ -4,12 +4,8 @@ Analysis of 50,000 Instagram posts (Apr 2024 - Apr 2025) to find what content wo
 
 ## Project Links
 
-| Item | Link |
-| --- | --- |
-| GitHub repository | ADD YOUR GITHUB LINK HERE |
-| Streamlit live demo | ADD YOUR STREAMLIT LINK HERE |
-| Tableau Public dashboard | ADD YOUR TABLEAU LINK HERE |
-| Video explanation | ADD YOUR VIDEO LINK HERE |
+GitHub repository : https://github.com/AkshitaChauhan3206/Sugar-cosmetics-project
+Streamlit live demo : https://sugar-cosmetics-project.streamlit.app
 
 ## Problem Statement
 
@@ -50,22 +46,16 @@ Note: the data has no captions, posting time or audience age/gender/city. A shor
 
 ## Folder Structure
 
-```
 sugar_cosmetics_instagram_analytics/
 ├── data/
-│   ├── raw/                 original CSV
-│   └── processed/           cleaned CSV and hashtag list
+│   ├── raw/                            original CSV
+│   └── processed/                      cleaned CSV and hashtag list
 ├── notebooks/
-│   └── EDA.ipynb            full exploratory analysis
-├── src/                     cleaning, Tableau data, PDF and PPT scripts
-├── streamlit_dashboard/     Streamlit app (own folder)
-├── tableau/                 Excel data for Tableau + calculated fields
-├── powerbi/                 DAX measures (optional)
-├── presentation/            stakeholder PowerPoint
-├── reports/                 insights PDF
-├── images/                  charts
+│   └── EDA.ipynb                       full exploratory analysis
+├── sugar_cosmetics_insights.pdf        insights PDF
+├── images/                             charts
 └── requirements.txt
-```
+
 
 ## How to Run
 
